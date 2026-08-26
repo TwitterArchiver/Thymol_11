@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040198791836667904",
+        "3_2040198791656251392"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2040198820072755244",
+    "created_at": "2026-04-03T22:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T23:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040198820072755244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FzsaGpoW0l",
+          "end": 38,
+          "expanded_url": "https://x.com/Thymol_11/status/2040198820072755244/photo/1",
+          "media_key": "3_2040198791836667904",
+          "start": 15,
+          "url": "https://t.co/FzsaGpoW0l"
+        },
+        {
+          "display_url": "pic.x.com/FzsaGpoW0l",
+          "end": 38,
+          "expanded_url": "https://x.com/Thymol_11/status/2040198820072755244/photo/1",
+          "media_key": "3_2040198791656251392",
+          "start": 15,
+          "url": "https://t.co/FzsaGpoW0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040198820072755244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我老婆救济我的。。60t白兔 https://t.co/FzsaGpoW0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040198791836667904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA9_eKbEAAG6dd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040198791656251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA9_dfaIAAoD0N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040198791836667904",
+            "3_2040198791656251392"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040198820072755244",
+        "created_at": "2026-04-03T22:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040198820072755244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzsaGpoW0l",
+              "end": 38,
+              "expanded_url": "https://x.com/Thymol_11/status/2040198820072755244/photo/1",
+              "media_key": "3_2040198791836667904",
+              "start": 15,
+              "url": "https://t.co/FzsaGpoW0l"
+            },
+            {
+              "display_url": "pic.x.com/FzsaGpoW0l",
+              "end": 38,
+              "expanded_url": "https://x.com/Thymol_11/status/2040198820072755244/photo/1",
+              "media_key": "3_2040198791656251392",
+              "start": 15,
+              "url": "https://t.co/FzsaGpoW0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040198820072755244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老婆救济我的。。60t白兔 https://t.co/FzsaGpoW0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 494,
+          "like_count": 4381,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

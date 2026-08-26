@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036076998326681600"
+      ],
+      "media_source_tweet_id": [
+        "2036077020913017342"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "conversation_id": "2036133373001998780",
+    "created_at": "2026-03-23T17:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T18:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036133373001998780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885765075996393472",
+          "start": 3,
+          "username": "maitakoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/squKIuHMwh",
+          "end": 56,
+          "expanded_url": "https://x.com/maitakoo/status/2036077020913017342/photo/1",
+          "media_key": "3_2036076998326681600",
+          "start": 33,
+          "url": "https://t.co/squKIuHMwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036133373001998780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036077020913017342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maitakoo: 对这个东西有心理阴影了oder都懂。 https://t.co/squKIuHMwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036076998326681600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGZPgybAAAjhxQ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036076998326681600"
+          ],
+          "media_source_tweet_id": [
+            "2036077020913017342"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "conversation_id": "2036133373001998780",
+        "created_at": "2026-03-23T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036133373001998780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885765075996393472",
+              "start": 3,
+              "username": "maitakoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/squKIuHMwh",
+              "end": 56,
+              "expanded_url": "https://x.com/maitakoo/status/2036077020913017342/photo/1",
+              "media_key": "3_2036076998326681600",
+              "start": 33,
+              "url": "https://t.co/squKIuHMwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036133373001998780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036077020913017342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maitakoo: 对这个东西有心理阴影了oder都懂。 https://t.co/squKIuHMwh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036076998326681600"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2036077020913017342",
+        "created_at": "2026-03-23T13:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036077020913017342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/squKIuHMwh",
+              "end": 42,
+              "expanded_url": "https://x.com/maitakoo/status/2036077020913017342/photo/1",
+              "media_key": "3_2036076998326681600",
+              "start": 19,
+              "url": "https://t.co/squKIuHMwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036077020913017342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2566,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对这个东西有心理阴影了oder都懂。 https://t.co/squKIuHMwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2035602705838944269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 313,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo",
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2026673425104953549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 138,
+          "like_count": 2623,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1770
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2042726524403749112",
+    "created_at": "2026-04-10T22:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042726524403749112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "797300863",
+          "start": 3,
+          "username": "mason_sadie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042726524403749112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042617831788023948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mason_sadie: 我从出生岁起就想杀人，可是许多年来我没杀过一个人，相当于我救了很多人，我是一个悬壶济世的大善人，我应该得诺贝尔和平奖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2042726524403749112",
+        "created_at": "2026-04-10T22:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042726524403749112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "797300863",
+              "start": 3,
+              "username": "mason_sadie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042726524403749112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042617831788023948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mason_sadie: 我从出生岁起就想杀人，可是许多年来我没杀过一个人，相当于我救了很多人，我是一个悬壶济世的大善人，我应该得诺贝尔和平奖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "797300863",
+        "conversation_id": "2042617831788023948",
+        "created_at": "2026-04-10T14:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042617831788023948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042617831788023948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我从出生岁起就想杀人，可是许多年来我没杀过一个人，相当于我救了很多人，我是一个悬壶济世的大善人，我应该得诺贝尔和平奖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 518,
+          "like_count": 4742,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-02T02:06:51.000Z",
+        "description": "互fo查成分回关 男純綠🚪52 支付宝口令红包回消息",
+        "id": "797300863",
+        "name": "怜可兮",
+        "pinned_tweet_id": "2035824500517032276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030765259141844993/6LmD6Vb3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 258,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 208
+        },
+        "username": "mason_sadie",
+        "verified": false
+      }
+    ]
+  }
+}

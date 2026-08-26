@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2078167833121612117",
+    "created_at": "2026-07-18T00:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078269930567602653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024308845557026816",
+          "start": 0,
+          "username": "Lizi7fnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078269930567602653",
+    "in_reply_to_user_id": "2024308845557026816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078183444874739883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizi7fnn 收到！不过只需要这么一点点吗，我以为效力比普瑞低要吃好多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2078167833121612117",
+        "created_at": "2026-07-18T00:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078269930567602653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024308845557026816",
+              "start": 0,
+              "username": "Lizi7fnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078269930567602653",
+        "in_reply_to_user_id": "2024308845557026816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078183444874739883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizi7fnn 收到！不过只需要这么一点点吗，我以为效力比普瑞低要吃好多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024308845557026816",
+        "conversation_id": "2078167833121612117",
+        "created_at": "2026-07-17T18:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078183444874739883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078183444874739883",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078167833121612117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 吃个6t看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 652,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T02:24:06.000Z",
+        "description": "",
+        "id": "2024308845557026816",
+        "name": "Lizi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070286065630658560/ASEx2GWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Lizi7fnn",
+        "verified": false
+      }
+    ]
+  }
+}

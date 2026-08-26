@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035497159236432382",
+    "created_at": "2026-03-22T01:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035531359444455750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820770192101904384",
+          "start": 0,
+          "username": "METEORbaiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035531359444455750",
+    "in_reply_to_user_id": "1820770192101904384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035530123945099567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@METEORbaiyu 抱抱🫂，，我没试过酒石酸，有些药比较安全有些药有风险，，希望你和你朋友幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035497159236432382",
+        "created_at": "2026-03-22T01:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035531359444455750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820770192101904384",
+              "start": 0,
+              "username": "METEORbaiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035531359444455750",
+        "in_reply_to_user_id": "1820770192101904384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035530123945099567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@METEORbaiyu 抱抱🫂，，我没试过酒石酸，有些药比较安全有些药有风险，，希望你和你朋友幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820770192101904384",
+        "conversation_id": "2035497159236432382",
+        "created_at": "2026-03-22T01:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035530123945099567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035530123945099567",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035527995100909966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 我朋友就是od走的，酒石酸唑吡坦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 171,
+          "like_count": 2998,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T10:33:50.000Z",
+        "description": "",
+        "id": "1820770192101904384",
+        "name": "白榆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820770252495704064/QwGW2UC3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "METEORbaiyu",
+        "verified": false
+      }
+    ]
+  }
+}

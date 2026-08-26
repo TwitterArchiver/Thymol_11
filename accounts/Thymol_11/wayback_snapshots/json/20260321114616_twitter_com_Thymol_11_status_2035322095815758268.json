@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035322095815758268",
+    "created_at": "2026-03-21T11:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035322095815758268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035322095815758268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【蛋】蛋仔主播与晚柠\n【仔】蛋仔DD 今日休止\n【与】没大佬架子打卡30天加好友\n【晚】可交友看质回秀®冲1000粉\n【柠】@^辞念.（沖500粉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035322095815758268",
+        "created_at": "2026-03-21T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035322095815758268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035322095815758268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【蛋】蛋仔主播与晚柠\n【仔】蛋仔DD 今日休止\n【与】没大佬架子打卡30天加好友\n【晚】可交友看质回秀®冲1000粉\n【柠】@^辞念.（沖500粉）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 138,
+          "like_count": 2828,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

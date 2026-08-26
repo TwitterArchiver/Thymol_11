@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035543258416418947",
+    "created_at": "2026-03-22T07:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035612664593043535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900924401266421761",
+          "start": 0,
+          "username": "SenVam77990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035612664593043535",
+    "in_reply_to_user_id": "1900924401266421761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035581244793344228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenVam77990 生活不如意就去死别在网络上喷粪，傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T07:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035612664593043535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900924401266421761",
+              "start": 0,
+              "username": "SenVam77990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035612664593043535",
+        "in_reply_to_user_id": "1900924401266421761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035581244793344228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenVam77990 生活不如意就去死别在网络上喷粪，傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900924401266421761",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T04:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035581244793344228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035581244793344228",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035543258416418947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 你真鸡巴是个蠢货啊狗屎fo你妈呢fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2035602705838944269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 211,
+          "like_count": 3065,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T14:58:03.000Z",
+        "description": "",
+        "id": "1900924401266421761",
+        "name": "Sen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035538596233719808/_fCpP98a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "SenVam77990",
+        "verified": false
+      }
+    ]
+  }
+}

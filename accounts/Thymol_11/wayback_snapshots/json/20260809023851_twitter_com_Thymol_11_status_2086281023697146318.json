@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2086014110525723116",
+    "created_at": "2026-08-09T02:38:51.000Z",
+    "display_text_range": [
+      8,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086281023697146318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944404050906316800",
+          "start": 0,
+          "username": "F7Uj6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086281023697146318",
+    "in_reply_to_user_id": "1944404050906316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086014110525723116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F7Uj6y 美金刚，加巴配巴氯芬，盐野义白兔，这些都是可以买到的，美金刚少o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2086014110525723116",
+        "created_at": "2026-08-09T02:38:51.000Z",
+        "display_text_range": [
+          8,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086281023697146318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944404050906316800",
+              "start": 0,
+              "username": "F7Uj6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086281023697146318",
+        "in_reply_to_user_id": "1944404050906316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086014110525723116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F7Uj6y 美金刚，加巴配巴氯芬，盐野义白兔，这些都是可以买到的，美金刚少o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944404050906316800",
+        "conversation_id": "2086014110525723116",
+        "created_at": "2026-08-08T08:58:14.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086014110525723116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086014110525723116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底有哪些好o的药啊...愈美片和普瑞巴林网上买不到，加巴喷丁吃到饱都没感觉，甘草片更是吃100t都没什么感觉，感康o起来让人难受而且伤肾伤肝，pr80的替代品克利加巴林又太贵....."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "is_identity_verified": false,
+        "location": "想用你的心跳堵住双耳",
+        "most_recent_tweet_id": "2086281023697146318",
+        "name": "電子安眠藥魔法👾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965457223636975617/1775110674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 704,
+          "like_count": 5545,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T14:30:45.000Z",
+        "description": "这里叶子\n生理性别男 心理性别男\ngay\n抑郁症患者  焦虑症患者\n一个下水道的阴湿oder...",
+        "id": "1944404050906316800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086146104501113118",
+        "name": "leaf",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944404050906316800/1752494966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 43,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "F7Uj6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

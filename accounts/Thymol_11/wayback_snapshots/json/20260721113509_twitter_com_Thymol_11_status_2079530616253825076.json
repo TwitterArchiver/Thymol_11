@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079530606472642560",
+        "3_2079530606481080320"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079530616253825076",
+    "created_at": "2026-07-21T11:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079530616253825076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/USwxJ6BFAb",
+          "end": 27,
+          "expanded_url": "https://x.com/Thymol_11/status/2079530616253825076/photo/1",
+          "media_key": "3_2079530606472642560",
+          "start": 4,
+          "url": "https://t.co/USwxJ6BFAb"
+        },
+        {
+          "display_url": "pic.x.com/USwxJ6BFAb",
+          "end": 27,
+          "expanded_url": "https://x.com/Thymol_11/status/2079530616253825076/photo/1",
+          "media_key": "3_2079530606481080320",
+          "start": 4,
+          "url": "https://t.co/USwxJ6BFAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079530616253825076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯哼？ https://t.co/USwxJ6BFAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079530606472642560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv6EZpawAA8fXC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079530606481080320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv6EZrbgAAZPdE.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079530606472642560",
+            "3_2079530606481080320"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079530616253825076",
+        "created_at": "2026-07-21T11:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079530616253825076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USwxJ6BFAb",
+              "end": 27,
+              "expanded_url": "https://x.com/Thymol_11/status/2079530616253825076/photo/1",
+              "media_key": "3_2079530606472642560",
+              "start": 4,
+              "url": "https://t.co/USwxJ6BFAb"
+            },
+            {
+              "display_url": "pic.x.com/USwxJ6BFAb",
+              "end": 27,
+              "expanded_url": "https://x.com/Thymol_11/status/2079530616253825076/photo/1",
+              "media_key": "3_2079530606481080320",
+              "start": 4,
+              "url": "https://t.co/USwxJ6BFAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079530616253825076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯哼？ https://t.co/USwxJ6BFAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 656,
+          "like_count": 5475,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

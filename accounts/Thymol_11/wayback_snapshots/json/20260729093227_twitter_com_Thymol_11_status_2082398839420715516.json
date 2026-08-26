@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2082244128361029771",
+    "created_at": "2026-07-29T09:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082398839420715516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082398839420715516",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082244128361029771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 涂击队好玩！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082244117925593088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWd_jiaAAAUAeX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082244117929811968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWd_jjaYAAd-Yz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2082244128361029771",
+        "created_at": "2026-07-29T09:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082398839420715516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398839420715516",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082244128361029771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 涂击队好玩！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082244117925593088",
+            "3_2082244117929811968"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082244128361029771",
+        "created_at": "2026-07-28T23:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082244128361029771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8RHZRIYyy",
+              "end": 39,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2082244128361029771/photo/1",
+              "media_key": "3_2082244117925593088",
+              "start": 16,
+              "url": "https://t.co/u8RHZRIYyy"
+            },
+            {
+              "display_url": "pic.x.com/u8RHZRIYyy",
+              "end": 39,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2082244128361029771/photo/1",
+              "media_key": "3_2082244117929811968",
+              "start": 16,
+              "url": "https://t.co/u8RHZRIYyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082244128361029771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情复杂鱿型不起来\n先下着好啦 https://t.co/u8RHZRIYyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 672,
+          "like_count": 5531,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1213
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢(教えないよ～👅ベヘー～)性同一性障害mtf 日本留子 心理学专业在读 为了帮助大家击败心理疾病🤜👿(抑郁精分双相等)会加油! (可惜以后这里只能发点碎碎念跟生活推了呜呜🥺)無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💙#深蓝可是小遥の推し色～",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1565,
+          "like_count": 98556,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 10552
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

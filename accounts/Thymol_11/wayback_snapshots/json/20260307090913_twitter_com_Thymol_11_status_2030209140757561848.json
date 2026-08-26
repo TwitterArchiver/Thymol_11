@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029844480950685696"
+      ],
+      "media_source_tweet_id": [
+        "2029844492069785714"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "conversation_id": "2030209140757561848",
+    "created_at": "2026-03-07T09:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T10:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030209140757561848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426753435806756866",
+          "start": 3,
+          "username": "hosikage4040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ul68FbbwgB",
+          "end": 49,
+          "expanded_url": "https://x.com/hosikage4040/status/2029844492069785714/photo/1",
+          "media_key": "3_2029844480950685696",
+          "start": 26,
+          "url": "https://t.co/Ul68FbbwgB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030209140757561848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029844492069785714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosikage4040: 体調がわるい😷 https://t.co/Ul68FbbwgB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2029844480950685696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCt0zQRaUAAA1dl.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029844480950685696"
+          ],
+          "media_source_tweet_id": [
+            "2029844492069785714"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "conversation_id": "2030209140757561848",
+        "created_at": "2026-03-07T09:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030209140757561848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426753435806756866",
+              "start": 3,
+              "username": "hosikage4040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul68FbbwgB",
+              "end": 49,
+              "expanded_url": "https://x.com/hosikage4040/status/2029844492069785714/photo/1",
+              "media_key": "3_2029844480950685696",
+              "start": 26,
+              "url": "https://t.co/Ul68FbbwgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030209140757561848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029844492069785714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosikage4040: 体調がわるい😷 https://t.co/Ul68FbbwgB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029844480950685696"
+          ]
+        },
+        "author_id": "1426753435806756866",
+        "conversation_id": "2029844492069785714",
+        "created_at": "2026-03-06T09:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029844492069785714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul68FbbwgB",
+              "end": 31,
+              "expanded_url": "https://x.com/hosikage4040/status/2029844492069785714/photo/1",
+              "media_key": "3_2029844480950685696",
+              "start": 8,
+              "url": "https://t.co/Ul68FbbwgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029844492069785714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 48646,
+          "like_count": 2841,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "体調がわるい😷 https://t.co/Ul68FbbwgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "=眠眠\n畅所欲言 只因为我是自我至上主义者\n09｜intp5w4｜功能性自伤od｜性别平权主义｜LGBTQ+全友好｜我喜欢听藤井风｜查成分互fo",
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030099554230751233/7NJnEqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 121,
+          "like_count": 2134,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 269
+        },
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T03:52:08.000Z",
+        "description": "⟡.·꒰ঌ𝒾𝓁𝓁𝓊𝓈𝓉𝓇𝒶𝓉𝒾ℴ𝓃໒꒱┋創作/不穏/3L┋FA #星ぽすと┋⋆✦ご依頼･ 𝐒𝐤𝐞𝐛(募集中)⇒https://t.co/1rwrtUOCO2┋ ✉️▶hosi0404bosi@gmail.com┋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "星ぽすと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 78,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 55,
+                "url": "https://t.co/1rwrtUOCO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hosikage4040",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hosikage4040",
+                "start": 0,
+                "url": "https://t.co/xluLIaVkM0"
+              }
+            ]
+          }
+        },
+        "id": "1426753435806756866",
+        "location": "絵柄参考­­･AI学習­­･無断転載使用­­­­･トレス禁止",
+        "name": "星影",
+        "pinned_tweet_id": "1884526923042509235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945768339269181440/lsOZHqpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32628,
+          "following_count": 293,
+          "like_count": 41294,
+          "listed_count": 98,
+          "media_count": 1034,
+          "tweet_count": 23920
+        },
+        "url": "https://t.co/xluLIaVkM0",
+        "username": "hosikage4040",
+        "verified": false
+      }
+    ]
+  }
+}

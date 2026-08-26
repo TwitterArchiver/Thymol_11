@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2050585038266520041",
+    "created_at": "2026-05-03T04:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T05:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050790914256490566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960974569722011648",
+          "start": 0,
+          "username": "xiaokou100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050790914256490566",
+    "in_reply_to_user_id": "1960974569722011648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050711989929038264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokou100204 天哪，要不要戒一段时间再吃捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2050585038266520041",
+        "created_at": "2026-05-03T04:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050790914256490566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960974569722011648",
+              "start": 0,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050790914256490566",
+        "in_reply_to_user_id": "1960974569722011648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050711989929038264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokou100204 天哪，要不要戒一段时间再吃捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960974569722011648",
+        "conversation_id": "2050585038266520041",
+        "created_at": "2026-05-02T23:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050711989929038264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050711989929038264",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050585038266520041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 羡慕你们pr低耐药😭我吃两盒大普都不管用，上次过年拿钱买三瓶白兔更是没药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2045358763578970285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 662,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:55:54.000Z",
+        "description": "只回有礼貌的私信",
+        "id": "1960974569722011648",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "扌口口口",
+        "pinned_tweet_id": "1999818853568684236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 12,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 745
+        },
+        "username": "xiaokou100204",
+        "verified": false
+      }
+    ]
+  }
+}

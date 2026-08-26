@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2079624627433927031",
+    "created_at": "2026-07-23T00:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080086427778613435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2018605332692451328",
+          "start": 0,
+          "username": "hongsexiguamao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080086427778613435",
+    "in_reply_to_user_id": "2018605332692451328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080059368637411411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongsexiguamao pr➕愚昧完全断片。。我o完第二天什么都不记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2079624627433927031",
+        "created_at": "2026-07-23T00:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080086427778613435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2018605332692451328",
+              "start": 0,
+              "username": "hongsexiguamao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080086427778613435",
+        "in_reply_to_user_id": "2018605332692451328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080059368637411411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongsexiguamao pr➕愚昧完全断片。。我o完第二天什么都不记得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018605332692451328",
+        "conversation_id": "2079624627433927031",
+        "created_at": "2026-07-22T22:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080059368637411411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080059368637411411",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079624627433927031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 我第一次吃4t普瑞➕12t右美，完全大短片，后来吃70tpr都没啥用了，只觉得一点点心慌吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 673,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T08:40:05.000Z",
+        "description": "",
+        "id": "2018605332692451328",
+        "name": "女巫酱料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058075302673420288/cpxtmhY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "hongsexiguamao",
+        "verified": false
+      }
+    ]
+  }
+}

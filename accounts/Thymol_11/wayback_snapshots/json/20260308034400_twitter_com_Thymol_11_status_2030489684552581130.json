@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2030489684552581130",
+    "created_at": "2026-03-08T03:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030489684552581130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030489684552581130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呵呵代价就是什么都吃不进去然后还有点解离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2030489684552581130",
+        "created_at": "2026-03-08T03:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030489684552581130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030489684552581130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵代价就是什么都吃不进去然后还有点解离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "=眠眠\n畅所欲言 只因为我是自我至上主义者\n09｜intp5w4｜功能性自伤od｜平权主义｜LGBTQ+全友好｜我喜欢听藤井风｜查成分互fo｜@A7ddEnaively",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "A7ddEnaively"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030099554230751233/7NJnEqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

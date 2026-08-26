@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035543258416418947",
+    "created_at": "2026-03-22T08:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035640015037112543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988242011003228160",
+          "start": 0,
+          "username": "louooo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035640015037112543",
+    "in_reply_to_user_id": "1988242011003228160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035638872101777811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@louooo3 互了宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T08:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035640015037112543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988242011003228160",
+              "start": 0,
+              "username": "louooo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035640015037112543",
+        "in_reply_to_user_id": "1988242011003228160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035638872101777811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@louooo3 互了宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988242011003228160",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T08:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035638872101777811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035638872101777811",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035543258416418947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 宝宝互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2035602705838944269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 3072,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T13:47:50.000Z",
+        "description": "爱我就多多转账吧^ ^ 🚪52/188",
+        "id": "1988242011003228160",
+        "name": "北极星",
+        "pinned_tweet_id": "2021656471742853156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989008670831833089/7LSjSNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 83,
+          "like_count": 2118,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 509
+        },
+        "username": "louooo3",
+        "verified": false
+      }
+    ]
+  }
+}

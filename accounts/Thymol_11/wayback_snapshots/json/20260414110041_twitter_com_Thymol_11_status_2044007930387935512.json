@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2043625304552603810",
+    "created_at": "2026-04-14T11:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044007930387935512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690530117171453952",
+          "start": 0,
+          "username": "AgNo3_XQ719"
+        },
+        {
+          "end": 26,
+          "id": "2043832358000877568",
+          "start": 13,
+          "username": "zechen225506"
+        },
+        {
+          "end": 43,
+          "id": "1573173649917485058",
+          "start": 27,
+          "username": "shnzhnzgnwchul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044007930387935512",
+    "in_reply_to_user_id": "1690530117171453952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044006461685293398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ719 @zechen225506 @shnzhnzgnwchul1 好骂🥺🥺！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2043625304552603810",
+        "created_at": "2026-04-14T11:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044007930387935512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690530117171453952",
+              "start": 0,
+              "username": "AgNo3_XQ719"
+            },
+            {
+              "end": 26,
+              "id": "2043832358000877568",
+              "start": 13,
+              "username": "zechen225506"
+            },
+            {
+              "end": 43,
+              "id": "1573173649917485058",
+              "start": 27,
+              "username": "shnzhnzgnwchul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044007930387935512",
+        "in_reply_to_user_id": "1690530117171453952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006461685293398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ719 @zechen225506 @shnzhnzgnwchul1 好骂🥺🥺！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690530117171453952",
+        "conversation_id": "2043625304552603810",
+        "created_at": "2026-04-14T10:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044006461685293398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043832358000877568",
+              "start": 0,
+              "username": "zechen225506"
+            },
+            {
+              "end": 30,
+              "id": "1573173649917485058",
+              "start": 14,
+              "username": "shnzhnzgnwchul1"
+            },
+            {
+              "end": 41,
+              "id": "1965457223636975617",
+              "start": 31,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044006461685293398",
+        "in_reply_to_user_id": "2043832358000877568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043843389825994788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zechen225506 @shnzhnzgnwchul1 @Thymol_11 好急啊好急啊好急啊笑死我了你的攻击对我有0个伤害 给我看笑了 骂你了没他是你死去的爹啊这么护着他 死全家烂吊贱狗 赶紧滚回墙内别来恶心人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 532,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜09｜双相情感障碍｜istp-t｜互fo欢迎｜🚪52 88 188 288 520｜爱人@NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2041871190642585663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041358000955518976/9zUWm5kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 303,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 483
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T23:23:21.000Z",
+        "description": "",
+        "id": "2043832358000877568",
+        "name": "黄钟大吕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043837486305292290/DnWQaAEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "zechen225506",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:53:31.000Z",
+        "description": "",
+        "id": "1573173649917485058",
+        "name": "深圳自干五-臭脸传媒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573173696197533696/gwpuK9fO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1032
+        },
+        "username": "shnzhnzgnwchul1",
+        "verified": false
+      }
+    ]
+  }
+}

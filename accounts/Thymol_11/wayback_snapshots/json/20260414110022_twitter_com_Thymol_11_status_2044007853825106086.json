@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2043305546384892009",
+    "created_at": "2026-04-14T11:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044007853825106086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        },
+        {
+          "end": 28,
+          "id": "2030832351656493056",
+          "start": 15,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044007853825106086",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043305546384892009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P @Suintouhea2t 申请！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2043305546384892009",
+        "created_at": "2026-04-14T11:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044007853825106086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            },
+            {
+              "end": 28,
+              "id": "2030832351656493056",
+              "start": 15,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044007853825106086",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043305546384892009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P @Suintouhea2t 申请！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2043305546384892009",
+        "created_at": "2026-04-12T12:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043305546384892009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043305546384892009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想跟餐券妹od妹互fo。🈲有錢🈲我不缺錢我缺愛。來了我給你砍死。求互轉求在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 532,
+          "like_count": 4909,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "病み垢 鬱症 od リスカ",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138582778425344/tfuXk2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 251,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1929
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公 cnRinly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2043910004735127917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 399,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1803
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

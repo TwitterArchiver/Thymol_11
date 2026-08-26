@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031774356062490624"
+      ],
+      "media_source_tweet_id": [
+        "2031774363075354705"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "conversation_id": "2032116288043303267",
+    "created_at": "2026-03-12T15:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032116288043303267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942290305413480448",
+          "start": 3,
+          "username": "chichichibai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7B3Q4FHlOi",
+          "end": 59,
+          "expanded_url": "https://x.com/chichichibai/status/2031774363075354705/photo/1",
+          "media_key": "3_2031774356062490624",
+          "start": 36,
+          "url": "https://t.co/7B3Q4FHlOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032116288043303267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 470
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031774363075354705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chichichibai: : 每次听到有人管我学校叫母校我都 https://t.co/7B3Q4FHlOi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2031774356062490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJQAxTaUAAKPTa.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031774356062490624"
+          ],
+          "media_source_tweet_id": [
+            "2031774363075354705"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "conversation_id": "2032116288043303267",
+        "created_at": "2026-03-12T15:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032116288043303267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942290305413480448",
+              "start": 3,
+              "username": "chichichibai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7B3Q4FHlOi",
+              "end": 59,
+              "expanded_url": "https://x.com/chichichibai/status/2031774363075354705/photo/1",
+              "media_key": "3_2031774356062490624",
+              "start": 36,
+              "url": "https://t.co/7B3Q4FHlOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032116288043303267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 470
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031774363075354705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chichichibai: : 每次听到有人管我学校叫母校我都 https://t.co/7B3Q4FHlOi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031774356062490624"
+          ]
+        },
+        "author_id": "1942290305413480448",
+        "conversation_id": "2031774363075354705",
+        "created_at": "2026-03-11T16:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031774363075354705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7B3Q4FHlOi",
+              "end": 41,
+              "expanded_url": "https://x.com/chichichibai/status/2031774363075354705/photo/1",
+              "media_key": "3_2031774356062490624",
+              "start": 18,
+              "url": "https://t.co/7B3Q4FHlOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031774363075354705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 97659,
+          "like_count": 4295,
+          "quote_count": 26,
+          "reply_count": 22,
+          "retweet_count": 470
+        },
+        "reply_settings": "everyone",
+        "text": ": 每次听到有人管我学校叫母校我都 https://t.co/7B3Q4FHlOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "=眠眠\n畅所欲言 只因为我是自我至上主义者\n09｜intp5w4｜功能性自伤od｜平权主义｜LGBTQ+全友好｜我喜欢听藤井风｜查成分互fo｜A7ddEnaively",
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030099554230751233/7NJnEqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 127,
+          "like_count": 2336,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 294
+        },
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:31:25.000Z",
+        "description": "07/身心取向男/学历崇拜者/*待补充\n政治/歧视言论NG\n会默认看过置顶\n非空非纯看黄号无政治言论的号基本都会回关❤️欢迎大家找我玩ww",
+        "id": "1942290305413480448",
+        "name": "迟白",
+        "pinned_tweet_id": "2031031255014482261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961467345672757248/1rulkNwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 189,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1217
+        },
+        "username": "chichichibai",
+        "verified": false
+      }
+    ]
+  }
+}

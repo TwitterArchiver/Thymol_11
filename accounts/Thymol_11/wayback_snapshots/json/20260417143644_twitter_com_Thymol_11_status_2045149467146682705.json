@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2044992746520522896",
+    "created_at": "2026-04-17T14:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045149467146682705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986420391833907200",
+          "start": 0,
+          "username": "hnjn431596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045149467146682705",
+    "in_reply_to_user_id": "1986420391833907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045139267387801854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnjn431596 采纳了！我现在看看材料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2044992746520522896",
+        "created_at": "2026-04-17T14:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045149467146682705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986420391833907200",
+              "start": 0,
+              "username": "hnjn431596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045149467146682705",
+        "in_reply_to_user_id": "1986420391833907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045139267387801854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnjn431596 采纳了！我现在看看材料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986420391833907200",
+        "conversation_id": "2044992746520522896",
+        "created_at": "2026-04-17T13:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045139267387801854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045139267387801854",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044992746520522896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 可以自己diy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 547,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T13:08:45.000Z",
+        "description": "→这是酸性｜已成年｜BD｜OVERDOSE｜MOVIE｜BISEXUAL｜语言是→中韩英｜\n→男生查成分互fo｜女生都fo｜不可接受小粉红｜\n→这里提问(ｼ´･ω･)ﾉｼhttps://t.co/njkFAuFCEs\n喜欢大家爱我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cassie2me",
+                "end": 108,
+                "expanded_url": "https://ngl.link/cassie2me",
+                "start": 85,
+                "url": "https://t.co/njkFAuFCEs"
+              }
+            ]
+          }
+        },
+        "id": "1986420391833907200",
+        "location": "雨季",
+        "name": "*꒰ঌ മ ˔ മ ໒꒱*",
+        "pinned_tweet_id": "1992215269390119177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041179252637474817/KVzoqq9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 145,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 774
+        },
+        "username": "hnjn431596",
+        "verified": false
+      }
+    ]
+  }
+}

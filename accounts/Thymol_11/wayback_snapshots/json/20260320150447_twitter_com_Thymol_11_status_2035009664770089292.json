@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035009664770089292",
+    "created_at": "2026-03-20T15:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035009664770089292"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035009664770089292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好喜欢镇静剂，温顺的舒适的，可以给我欣快也可以给我安详，不会给我带来反胃呕吐谵妄幻觉无来由的激动，我好喜欢镇静剂我好爱普瑞，普瑞巴林像妈妈一样庇护着我给我的生活留了一条退路。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035009664770089292",
+        "created_at": "2026-03-20T15:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035009664770089292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035009664770089292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢镇静剂，温顺的舒适的，可以给我欣快也可以给我安详，不会给我带来反胃呕吐谵妄幻觉无来由的激动，我好喜欢镇静剂我好爱普瑞，普瑞巴林像妈妈一样庇护着我给我的生活留了一条退路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2031379269746892894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 104,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 362
+        },
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

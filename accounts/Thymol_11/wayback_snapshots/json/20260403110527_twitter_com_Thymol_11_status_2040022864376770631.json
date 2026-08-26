@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2039740424571760988",
+    "created_at": "2026-04-03T11:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040022864376770631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028418426969182209",
+          "start": 0,
+          "username": "TropicQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040022864376770631",
+    "in_reply_to_user_id": "2028418426969182209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039740424571760988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TropicQAQ 我去呃呃呃呃！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2039740424571760988",
+        "created_at": "2026-04-03T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040022864376770631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028418426969182209",
+              "start": 0,
+              "username": "TropicQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040022864376770631",
+        "in_reply_to_user_id": "2028418426969182209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039740424571760988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TropicQAQ 我去呃呃呃呃！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028418426969182209",
+        "conversation_id": "2039740424571760988",
+        "created_at": "2026-04-02T16:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039740424571760988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039740424571760988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一瓶魔爪，6tPr，半片sns，\n我晕的不行，感官失调，有幻觉，呼吸抑制，有点爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 470,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:34:12.000Z",
+        "description": "=熱帶雨/季節 ｜ENTP｜09｜中抑重焦｜互聯網幽靈｜無雷點｜od ｜最爱我的女朋友@Thymol_11ﾍ(;´Д｀ﾍ)求互fo喵。正在戒割中!!†昇天†ˎˊ⋆.˚𖦹⋆✮⋆.˚☆⋆｡𖦹°‧★🚪52纯绿隐形人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Thymol_11"
+              }
+            ]
+          }
+        },
+        "id": "2028418426969182209",
+        "location": "天堂",
+        "name": "Tropic",
+        "pinned_tweet_id": "2035562751595290908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029875753442234368/djND5T1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 178,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 407
+        },
+        "username": "TropicQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

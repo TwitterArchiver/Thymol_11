@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2085817734252868009",
+    "created_at": "2026-08-09T02:36:04.000Z",
+    "display_text_range": [
+      12,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086280320702439493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725613958239760384",
+          "start": 0,
+          "username": "baozi32983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086280320702439493",
+    "in_reply_to_user_id": "1725613958239760384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086104292465824014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozi32983 怀念…买药像买零食那样简单😭想o啥自己买直接开o😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2085817734252868009",
+        "created_at": "2026-08-09T02:36:04.000Z",
+        "display_text_range": [
+          12,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086280320702439493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725613958239760384",
+              "start": 0,
+              "username": "baozi32983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086280320702439493",
+        "in_reply_to_user_id": "1725613958239760384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086104292465824014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozi32983 怀念…买药像买零食那样简单😭想o啥自己买直接开o😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725613958239760384",
+        "conversation_id": "2085817734252868009",
+        "created_at": "2026-08-08T14:56:35.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086104292465824014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086104292465824014",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085817734252868009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 唉都是墙内od发太多了给禁了以前都没管这么严现在白兔都买不到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "is_identity_verified": false,
+        "location": "想用你的心跳堵住双耳",
+        "most_recent_tweet_id": "2086280320702439493",
+        "name": "電子安眠藥魔法👾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965457223636975617/1775110674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 700,
+          "like_count": 5544,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-17T20:36:58.000Z",
+        "description": "ed/od/抑郁/焦虑/欢迎互fo看到喜欢会回  嘴臭沙比滚别来视奸你爹",
+        "id": "1725613958239760384",
+        "is_identity_verified": false,
+        "location": "Texas, USA",
+        "most_recent_tweet_id": "2086104410489249986",
+        "name": "bao zi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725613958239760384/1757087825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963993404024459264/fSzD_feT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 48,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "baozi32983",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

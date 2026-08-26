@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2030238462532898841",
+    "created_at": "2026-03-08T03:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030490206139470252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030490206139470252",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030238462532898841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 真的是这样！我对一切药物都没有成瘾，可有可无的感觉，如果吃的频率多了对这种感觉熟悉了就不想要了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2030238462532898841",
+        "created_at": "2026-03-08T03:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030490206139470252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030490206139470252",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030238462532898841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 真的是这样！我对一切药物都没有成瘾，可有可无的感觉，如果吃的频率多了对这种感觉熟悉了就不想要了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2030238462532898841",
+        "created_at": "2026-03-07T11:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030238462532898841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030238462532898841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3265,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又半个月没吃普瑞了我感觉我瘾都淡了\n对我来说，好像所有成瘾性强的事物都能通过基于无意识+遗忘性的原理达成自然戒除，包括不仅限于性瘾、网瘾、毒瘾等\n而且我好像天生反成瘾，打游戏玩几小时没耐心了，很多东西接触一会就没兴趣了，希望对毒品的兴趣可以再久一点，我感兴趣的东西实在有点少，很无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "=眠眠\n畅所欲言 只因为我是自我至上主义者\n09｜intp5w4｜功能性自伤od｜平权主义｜LGBTQ+全友好｜我喜欢听藤井风｜查成分互fo｜@A7ddEnaively",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "A7ddEnaively"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030099554230751233/7NJnEqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 2187,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 273
+        },
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 1975,
+          "like_count": 7403,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 6413
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

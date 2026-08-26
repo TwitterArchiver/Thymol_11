@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2039380206847500530",
+    "created_at": "2026-04-01T16:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039380206847500530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039380206847500530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我舒服心情好的时候或者磕药good trip的时候听歌是非常有正面收益的，我会觉得每一首都好好听真不愧是我的歌品，我心情也会更好，但是心理不舒服或者特别焦虑的时候我听歌就无法抚慰我的情绪，那个时候听什么歌都难听，最爱听的也不好听，白兔是目前我觉得听歌最舒服的药，太温柔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2039380206847500530",
+        "created_at": "2026-04-01T16:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039380206847500530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039380206847500530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我舒服心情好的时候或者磕药good trip的时候听歌是非常有正面收益的，我会觉得每一首都好好听真不愧是我的歌品，我心情也会更好，但是心理不舒服或者特别焦虑的时候我听歌就无法抚慰我的情绪，那个时候听什么歌都难听，最爱听的也不好听，白兔是目前我觉得听歌最舒服的药，太温柔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 447,
+          "like_count": 4175,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

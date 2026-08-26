@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2086014110525723116",
+    "created_at": "2026-08-11T05:27:34.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087048256446677103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071494702126288896",
+          "start": 0,
+          "username": "iuxx1e"
+        },
+        {
+          "end": 15,
+          "id": "1944404050906316800",
+          "start": 8,
+          "username": "F7Uj6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087048256446677103",
+    "in_reply_to_user_id": "2071494702126288896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086486549802226094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuxx1e @F7Uj6y 不知道啊，你换一家买，这个很容易买到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2086014110525723116",
+        "created_at": "2026-08-11T05:27:34.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087048256446677103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071494702126288896",
+              "start": 0,
+              "username": "iuxx1e"
+            },
+            {
+              "end": 15,
+              "id": "1944404050906316800",
+              "start": 8,
+              "username": "F7Uj6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087048256446677103",
+        "in_reply_to_user_id": "2071494702126288896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086486549802226094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuxx1e @F7Uj6y 不知道啊，你换一家买，这个很容易买到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071494702126288896",
+        "conversation_id": "2086014110525723116",
+        "created_at": "2026-08-09T16:15:33.000Z",
+        "display_text_range": [
+          19,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086486549802226094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            },
+            {
+              "end": 18,
+              "id": "1944404050906316800",
+              "start": 11,
+              "username": "F7Uj6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086486549802226094",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086281023697146318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 @F7Uj6y 老大想问问买的金刚晚安药师一直审核中怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "is_identity_verified": false,
+        "location": "想用你的心跳堵住双耳",
+        "most_recent_tweet_id": "2087048256446677103",
+        "name": "電子安眠藥魔法👾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965457223636975617/1775110674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 704,
+          "like_count": 5531,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T07:24:12.000Z",
+        "description": "",
+        "id": "2071494702126288896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086486549802226094",
+        "name": "猫雷",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071495249273167872/IjCCPkDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "iuxx1e",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T14:30:45.000Z",
+        "description": "叫我叶子ᗜ֊ᗜ🍃🌿🍀☘️🌱\n09  坐标重庆\n生理性别男 ‖ 心理性别男\ngay  ‖  LGBTQ+全肯定\n抑郁症患者  焦虑症患者 ‖ 不割手\n\nhttps://t.co/olDOaMTObs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/leaf0911",
+                "end": 98,
+                "expanded_url": "http://t.me/leaf0911",
+                "start": 75,
+                "url": "https://t.co/olDOaMTObs"
+              }
+            ]
+          }
+        },
+        "id": "1944404050906316800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087038662668173599",
+        "name": "leaf",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944404050906316800/1752494966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "F7Uj6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

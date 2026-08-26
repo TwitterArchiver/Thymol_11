@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2079910239718281715",
+    "created_at": "2026-07-23T00:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080087396847407577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2078478815500894208",
+          "start": 0,
+          "username": "2nvihl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080087396847407577",
+    "in_reply_to_user_id": "2078478815500894208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080044123458048420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2nvihl 我没吐也没恶心诶，你是不是吃的剂量比较大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2079910239718281715",
+        "created_at": "2026-07-23T00:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080087396847407577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2078478815500894208",
+              "start": 0,
+              "username": "2nvihl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080087396847407577",
+        "in_reply_to_user_id": "2078478815500894208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080044123458048420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2nvihl 我没吐也没恶心诶，你是不是吃的剂量比较大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078478815500894208",
+        "conversation_id": "2079910239718281715",
+        "created_at": "2026-07-22T21:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080044123458048420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080044123458048420",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079910239718281715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 不会吐吗我吃晚安前喝的粥都吐出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 673,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T14:00:20.000Z",
+        "description": "心が砕けて、何も感じない。｜🚬🔪💊\n天使女宝找我互fo呀♡˙°ʚᕱ⑅ᕱɞ°˙♡",
+        "id": "2078478815500894208",
+        "name": "病み兎^^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080022613624324096/fyPn1Pc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "2nvihl",
+        "verified": false
+      }
+    ]
+  }
+}

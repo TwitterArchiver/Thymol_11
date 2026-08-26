@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2042097730760405189",
+    "created_at": "2026-04-09T04:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042097730760405189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970504759762419712",
+          "start": 3,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042097730760405189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041925094382170306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DkyOnlyforu: 我都打算戒o了 可是一想到卖药的老板还有老婆孩子要养 唉 心软的人就看不了这些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2042097730760405189",
+        "created_at": "2026-04-09T04:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042097730760405189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970504759762419712",
+              "start": 3,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042097730760405189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041925094382170306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DkyOnlyforu: 我都打算戒o了 可是一想到卖药的老板还有老婆孩子要养 唉 心软的人就看不了这些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041925094382170306",
+        "created_at": "2026-04-08T17:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041925094382170306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041925094382170306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我都打算戒o了 可是一想到卖药的老板还有老婆孩子要养 唉 心软的人就看不了这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 513,
+          "like_count": 4647,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 372,
+          "like_count": 4216,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1916
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045126861454548992"
+      ]
+    },
+    "author_id": "1965457223636975617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2045126873181769840",
+    "created_at": "2026-04-17T13:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045126873181769840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmokeJIgQ4",
+          "end": 45,
+          "expanded_url": "https://x.com/Thymol_11/status/2045126873181769840/photo/1",
+          "media_key": "3_2045126861454548992",
+          "start": 22,
+          "url": "https://t.co/DmokeJIgQ4"
+        },
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2045076535670161817",
+          "start": 46,
+          "url": "https://t.co/5NHLeT5aiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045126873181769840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045076535670161817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢17喵！！！关注17喵关注17谢谢喵！ https://t.co/DmokeJIgQ4 https://t.co/5NHLeT5aiZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2045126861454548992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHAC4GboAAGLLO.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1606,
+        "media_key": "3_2045076531601633280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGSRSyacAAWEgO.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045126861454548992"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2045126873181769840",
+        "created_at": "2026-04-17T13:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045126873181769840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmokeJIgQ4",
+              "end": 45,
+              "expanded_url": "https://x.com/Thymol_11/status/2045126873181769840/photo/1",
+              "media_key": "3_2045126861454548992",
+              "start": 22,
+              "url": "https://t.co/DmokeJIgQ4"
+            },
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2045076535670161817",
+              "start": 46,
+              "url": "https://t.co/5NHLeT5aiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045126873181769840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045076535670161817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢17喵！！！关注17喵关注17谢谢喵！ https://t.co/DmokeJIgQ4 https://t.co/5NHLeT5aiZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045076531601633280"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2045076535670161817",
+        "created_at": "2026-04-17T09:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045076535670161817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2039359851634036736",
+              "start": 31,
+              "username": "wzu258036"
+            },
+            {
+              "end": 61,
+              "id": "1933201065677377536",
+              "start": 51,
+              "username": "xxxpk6qzj"
+            },
+            {
+              "end": 79,
+              "id": "1803048962133483520",
+              "start": 67,
+              "username": "baixixi0712"
+            },
+            {
+              "end": 101,
+              "id": "1965457223636975617",
+              "start": 91,
+              "username": "Thymol_11"
+            },
+            {
+              "end": 125,
+              "id": "1804875241367433216",
+              "start": 112,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 144,
+              "id": "1836611341161046016",
+              "start": 134,
+              "username": "S_aevuris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsapLRQWF7",
+              "end": 197,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2045076535670161817/photo/1",
+              "media_key": "3_2045076531601633280",
+              "start": 174,
+              "url": "https://t.co/XsapLRQWF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045076535670161817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo抽奖第一弹，grok随机抽结果公布——\n一等奖:\n@wzu258036「无罪」\n二等奖:\n@xxxpk6qzj「小魚🐟」\n@baixixi0712「白汐🩸💊」\n三等奖:\n@Thymol_11「電子安眠藥魔法👾」\n@aberyoheiskm「⊹すずめ⊹🩵」\n@S_aevuris「/」\n中奖的小可爱请私信我w\n第二弹将在4月20号开奖. https://t.co/XsapLRQWF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 546,
+          "like_count": 5041,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2045076535670161817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1207,
+          "like_count": 3166,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

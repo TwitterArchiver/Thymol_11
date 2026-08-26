@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2031002913959792769",
+    "created_at": "2026-03-09T21:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T22:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031123386144031231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028418426969182209",
+          "start": 0,
+          "username": "TropicQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031123386144031231",
+    "in_reply_to_user_id": "2028418426969182209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031071512351154190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TropicQAQ 素。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2031002913959792769",
+        "created_at": "2026-03-09T21:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T22:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031123386144031231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028418426969182209",
+              "start": 0,
+              "username": "TropicQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031123386144031231",
+        "in_reply_to_user_id": "2028418426969182209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031071512351154190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TropicQAQ 素。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028418426969182209",
+        "conversation_id": "2031002913959792769",
+        "created_at": "2026-03-09T18:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031071512351154190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031071512351154190",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031002913959792769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 这样看来天堂似乎要比学校宽松一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "=眠眠\n畅所欲言 只因为我是自我至上主义者\n09｜intp5w4｜功能性自伤od｜平权主义｜LGBTQ+全友好｜我喜欢听藤井风｜查成分互fo｜A7ddEnaively",
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030099554230751233/7NJnEqIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 124,
+          "like_count": 2280,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 278
+        },
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:34:12.000Z",
+        "description": "𖤐 ˎˊ⋆.˚𖦹⋆✮⋆.˚☆⋆｡𖦹°‧★",
+        "id": "2028418426969182209",
+        "name": "Tropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029875753442234368/djND5T1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "TropicQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

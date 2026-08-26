@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2039674483855012182",
+    "created_at": "2026-04-02T12:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039678174469161357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009255871201841152",
+          "start": 0,
+          "username": "mandy091024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039678174469161357",
+    "in_reply_to_user_id": "2009255871201841152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039674483855012182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandy091024 盐野义和白兔吧，先囤一点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-02T12:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039678174469161357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009255871201841152",
+              "start": 0,
+              "username": "mandy091024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039678174469161357",
+        "in_reply_to_user_id": "2009255871201841152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039674483855012182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandy091024 盐野义和白兔吧，先囤一点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009255871201841152",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-02T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039674483855012182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039674483855012182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr和玉米是真的要列管了吗 还有什么新的能o啊 感觉晚安太恶心了不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 471,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T13:28:35.000Z",
+        "description": "🐱🖤消肿笔来互fo好吗（❌男）\n真皮妹/od/09/休学",
+        "id": "2009255871201841152",
+        "name": "Ag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033514627989127168/CtxbopiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 163,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "username": "mandy091024",
+        "verified": false
+      }
+    ]
+  }
+}

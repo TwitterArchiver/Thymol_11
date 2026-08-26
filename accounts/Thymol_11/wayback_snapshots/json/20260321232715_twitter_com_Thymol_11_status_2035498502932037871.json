@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035143315369365833",
+    "created_at": "2026-03-21T23:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T00:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035498502932037871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1922212748731252736",
+          "start": 0,
+          "username": "Nudny7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035498502932037871",
+    "in_reply_to_user_id": "1922212748731252736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035497238173274502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nudny7 宝宝可是这个人真的太奇怪了呀，正常问渠道的话不是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035143315369365833",
+        "created_at": "2026-03-21T23:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035498502932037871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922212748731252736",
+              "start": 0,
+              "username": "Nudny7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035498502932037871",
+        "in_reply_to_user_id": "1922212748731252736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035497238173274502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nudny7 宝宝可是这个人真的太奇怪了呀，正常问渠道的话不是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922212748731252736",
+        "conversation_id": "2035143315369365833",
+        "created_at": "2026-03-21T23:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035497238173274502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035497238173274502",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035143315369365833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 啊..说这些会被人误以为是晶吗  我有时候看到药我也去问购买渠道.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 166,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T08:50:23.000Z",
+        "description": "让我的生命永远停留在18岁",
+        "id": "1922212748731252736",
+        "location": "门槛 10086/13140",
+        "name": "唉，再熬熬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033677898343956480/iFAXmWLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1275
+        },
+        "username": "Nudny7",
+        "verified": false
+      }
+    ]
+  }
+}

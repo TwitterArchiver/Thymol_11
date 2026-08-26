@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2079602560697348356",
+    "created_at": "2026-07-22T11:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079899066121732108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041878190747217921",
+          "start": 0,
+          "username": "xxwxxdxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079899066121732108",
+    "in_reply_to_user_id": "2041878190747217921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079859057792536786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxwxxdxxx 我玩switch！斯普拉遁动森人森（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2079602560697348356",
+        "created_at": "2026-07-22T11:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079899066121732108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041878190747217921",
+              "start": 0,
+              "username": "xxwxxdxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079899066121732108",
+        "in_reply_to_user_id": "2041878190747217921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079859057792536786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxwxxdxxx 我玩switch！斯普拉遁动森人森（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041878190747217921",
+        "conversation_id": "2079602560697348356",
+        "created_at": "2026-07-22T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079859057792536786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079859057792536786",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079602560697348356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 你喜欢玩什么游戏😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 674,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:58:17.000Z",
+        "description": "lgbtq友好🏳️‍🌈🌈mtf友好🏳️‍⚧️🍥\n07 ｜ 顺男 ｜ENFP/INFP-T\n抑郁症不规律服药 ｜正经吃药不o\n喜欢看电影听听歌 \nsoftcore stuff使用中\n欢迎互fo 请来找我玩🙌",
+        "id": "2041878190747217921",
+        "name": "Smartwedz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079833754814836736/4cZN7Q-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 157,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "xxwxxdxxx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2037689343415115829",
+    "created_at": "2026-03-28T00:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T01:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037689343415115829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897385240735240192",
+          "start": 3,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037689343415115829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037468969398112719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shen20020210: 服美役是指服从他人审美而产生的劳役，如果为了证明自己是女权是自然女而去剃寸头，其实也是一种服美役，服从他人意志而违背自己审美的都是服美役，不是只有服从男性审美才是服美役"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2037689343415115829",
+        "created_at": "2026-03-28T00:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037689343415115829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897385240735240192",
+              "start": 3,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037689343415115829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037468969398112719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shen20020210: 服美役是指服从他人审美而产生的劳役，如果为了证明自己是女权是自然女而去剃寸头，其实也是一种服美役，服从他人意志而违背自己审美的都是服美役，不是只有服从男性审美才是服美役"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2037468969398112719",
+        "created_at": "2026-03-27T09:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037468969398112719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037468969398112719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11069,
+          "like_count": 286,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "服美役是指服从他人审美而产生的劳役，如果为了证明自己是女权是自然女而去剃寸头，其实也是一种服美役，服从他人意志而违背自己审美的都是服美役，不是只有服从男性审美才是服美役"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜LGBTQ+全友好｜粉红绕道｜我喜欢听日音喵｜我的女王小宝宝最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 353,
+          "like_count": 3589,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "我真的不系拉拉呀…/ ENTJ-A /水瓶座 /我想像风一样自由 /喜欢画画听歌散步/分享我的日常和碎碎念/一些疑惑和自省/不约炮不聊骚不鉴鸡 / 内向但不社恐/给我发照片会被我锐评\n\n提问箱：https://t.co/nhgGIeVP69",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 120,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 97,
+                "url": "https://t.co/nhgGIeVP69"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 545,
+          "like_count": 37821,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 5058
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

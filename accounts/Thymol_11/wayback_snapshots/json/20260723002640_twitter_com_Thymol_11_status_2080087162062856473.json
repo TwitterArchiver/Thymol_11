@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2079624627433927031",
+    "created_at": "2026-07-23T00:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080087162062856473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966372495440941056",
+          "start": 0,
+          "username": "hw14vAWcAK58107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080087162062856473",
+    "in_reply_to_user_id": "1966372495440941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080055719135699232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hw14vAWcAK58107 我耐受控制的还可以其实，可能是没有新鲜感了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2079624627433927031",
+        "created_at": "2026-07-23T00:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080087162062856473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966372495440941056",
+              "start": 0,
+              "username": "hw14vAWcAK58107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080087162062856473",
+        "in_reply_to_user_id": "1966372495440941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080055719135699232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hw14vAWcAK58107 我耐受控制的还可以其实，可能是没有新鲜感了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966372495440941056",
+        "conversation_id": "2079624627433927031",
+        "created_at": "2026-07-22T22:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080055719135699232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080055719135699232",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079624627433927031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 耐受？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 673,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:25:25.000Z",
+        "description": "无人在意的音游人|and不知道怎么写简介遂摆烂的|求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ask83110",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ask83110",
+                "start": 0,
+                "url": "https://t.co/1BlIGSzGaL"
+              }
+            ]
+          }
+        },
+        "id": "1966372495440941056",
+        "location": "Koto-ku, Tokyo",
+        "name": "﹋o﹋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483905995350016/eVpd5b6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 281,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/1BlIGSzGaL",
+        "username": "hw14vAWcAK58107",
+        "verified": false
+      }
+    ]
+  }
+}

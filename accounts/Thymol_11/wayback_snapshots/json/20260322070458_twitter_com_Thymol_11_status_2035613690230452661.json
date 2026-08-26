@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035543258416418947",
+    "created_at": "2026-03-22T07:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035613690230452661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839865017392394240",
+          "start": 0,
+          "username": "BOTKMGKHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035613690230452661",
+    "in_reply_to_user_id": "1839865017392394240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035613225526710692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BOTKMGKHH 互啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T07:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035613690230452661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "BOTKMGKHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035613690230452661",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035613225526710692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BOTKMGKHH 互啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2035543258416418947",
+        "created_at": "2026-03-22T07:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035613225526710692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035613225526710692",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035543258416418947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2035602705838944269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 212,
+          "like_count": 3065,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣8️⃣ 9️⃣ 6️⃣ 4️⃣\n知雲使用此号(三世)\n(有多少人认识我？)\n二世:@zhi96886\n一世找不到了\n社民/历史/想要互fo/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "zhi96886"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025398033572409344/ES9R7cXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 839,
+          "like_count": 3309,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 1766
+        },
+        "username": "BOTKMGKHH",
+        "verified": false
+      }
+    ]
+  }
+}

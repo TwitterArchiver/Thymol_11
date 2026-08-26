@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035330280941363404",
+    "created_at": "2026-03-21T15:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035378938151895055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035378938151895055",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035376665149460592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 但是宝宝最好8t以下哦！因为这个损伤很严重很垃圾，第一次可以试试6t，会有一点幻觉没什么副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035330280941363404",
+        "created_at": "2026-03-21T15:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035378938151895055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035378938151895055",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035376665149460592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 但是宝宝最好8t以下哦！因为这个损伤很严重很垃圾，第一次可以试试6t，会有一点幻觉没什么副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2035330280941363404",
+        "created_at": "2026-03-21T15:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035376665149460592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035376665149460592",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035371223472025642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 已下单呃啊啊啊啊啊🤤😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 158,
+          "like_count": 2899,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜中抑重焦｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 关注就是喜欢你）\n二次深空沈星回高浓度梦女 纸性恋已有老公\n喜欢我可以给我打赏\n🚪52纯绿 获得一个碎碎念的我\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant28452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant28452",
+                "start": 0,
+                "url": "https://t.co/TbbxjotPeC"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "啦啦啦啦",
+        "name": "Croissant",
+        "pinned_tweet_id": "2034848066705240169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034143537328181248/xBnFbECc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 533,
+          "like_count": 2542,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/TbbxjotPeC",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

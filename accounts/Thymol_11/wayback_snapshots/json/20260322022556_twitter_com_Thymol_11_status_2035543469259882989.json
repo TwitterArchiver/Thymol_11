@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965457223636975617",
+    "conversation_id": "2035543469259882989",
+    "created_at": "2026-03-22T02:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035543469259882989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004977573332492288",
+          "start": 3,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035543469259882989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035419280649666736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gzi1068795: 在社会摸爬滚打是什么调教方式，老天一直在跟我玩sm吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035543469259882989",
+        "created_at": "2026-03-22T02:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035543469259882989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004977573332492288",
+              "start": 3,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035543469259882989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035419280649666736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gzi1068795: 在社会摸爬滚打是什么调教方式，老天一直在跟我玩sm吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004977573332492288",
+        "conversation_id": "2035419280649666736",
+        "created_at": "2026-03-21T18:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035419280649666736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035419280649666736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在社会摸爬滚打是什么调教方式，老天一直在跟我玩sm吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 173,
+          "like_count": 3027,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 292,
+          "like_count": 14003,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 6491
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}
