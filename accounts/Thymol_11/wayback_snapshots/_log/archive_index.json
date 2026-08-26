@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:16:04",
+  "last_updated": "2026-08-26T18:16:51",
   "html": {
     "https://web.archive.org/web/20260307090355if_/https://twitter.com/Thymol_11/status/2030207806218052032": {
       "status": "done",
@@ -5440,13 +5440,13 @@
   },
   "videos": {
     "https://video.twimg.com/amplify_video/2035309091355254784/vid/avc1/720x1280/pRXK3dyUNlzOFeHF.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260321120802_twitter_com_Thymol_11_status_2035327573182546064.json"
       ],
-      "last_updated": "2026-08-26T17:59:59",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260321120802/https://video.twimg.com/amplify_video/2035309091355254784/vid/avc1/720x1280/pRXK3dyUNlzOFeHF.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-26T18:16:51",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=4)",
+      "miss_count": 3
     }
   },
   "avatars": {
